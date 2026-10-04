@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "979845629900",
+    "restype": "watchface",
+    "name": "「绝区零丽都系列」通缉令相册表盘",
+    "description": "灵感来源于3.0版本游戏内的拍照滤镜",
+    "preview": [
+      "media/海报.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/画板 1.png",
+    "author": [
+      {
+        "name": "Stoentag000",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/通缉令-all-通缉令-n67-336x480-25c71200.bin",
+      "versionCode": 65792
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/通缉令-all-通缉令 副本-p67-336x480-ecfadc70.bin",
+      "versionCode": 65792
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/Stoentag000/astrobox-resource-979845629900/main/wallpaper/wallpaper.json"
+    }
+  }
+}
