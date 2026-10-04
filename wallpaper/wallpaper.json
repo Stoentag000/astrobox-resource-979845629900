@@ -141,7 +141,7 @@
           }
         },
         {
-          "id": "asset-mutfp13sivc",
+          "id": "asset-mutx9xlutre",
           "name": "壁纸生成",
           "type": "asset",
           "src": "./assets/壁纸生成.png",
@@ -200,8 +200,7 @@
               "color",
               "luminosity"
             ]
-          },
-          "syncAcrossDevices": true
+          }
         }
       ],
       "id": "band-pro-default",

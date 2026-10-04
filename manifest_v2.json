@@ -5,10 +5,12 @@
     "name": "「绝区零丽都系列」通缉令相册表盘",
     "description": "灵感来源于3.0版本游戏内的拍照滤镜",
     "preview": [
-      "media/海报.png"
+      "media/画板 2.png",
+      "media/画板 4.png",
+      "media/画板 3.png"
     ],
     "icon": "media/图标.png",
-    "cover": "media/画板 1.png",
+    "cover": "media/海报.png",
     "author": [
       {
         "name": "Stoentag000",
